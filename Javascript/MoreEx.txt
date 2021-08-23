@@ -1,0 +1,5 @@
+
+for more :
+https://rules.sonarsource.com/javascript/RSPEC-5696?search=xss
+https://rules.sonarsource.com/javascript/RSPEC-6105
+https://rules.sonarsource.com/javascript/
