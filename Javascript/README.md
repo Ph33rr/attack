@@ -1,3 +1,8 @@
+# in:
+ [PacketStorm](https://packetstormsecurity.com/files/163897/JavaScript-Static-Analysis.html) <br>
+ [exploit-db](https://www.exploit-db.com/docs/50222)
+
+
 # امثلة برمجية
 
 
@@ -22,7 +27,5 @@ exploit :http://vulnerable/page.html#<img onerror='alert(1); src='invalid-image'
  - [python](https://rules.sonarsource.com/python)
  - [More](https://rules.sonarsource.com/)
   
-    
-- [PacketStorm](https://packetstormsecurity.com/files/163897/JavaScript-Static-Analysis.html)
-- [exploit-db](https://www.exploit-db.com/docs/50222)
+
 
